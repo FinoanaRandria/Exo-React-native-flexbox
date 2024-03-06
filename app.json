@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "job_it",
-    "slug": "job_it",
+    "name": "App_react_native",
+    "slug": "App_react_native",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,9 +25,6 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "plugins": [
-      "expo-router"
-    ]
+    }
   }
 }
